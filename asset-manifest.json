@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EventexUi/static/css/main.3bdca5f2.css",
+    "main.js": "/EventexUi/static/js/main.3a4bfb1d.js",
+    "static/js/787.353e9694.chunk.js": "/EventexUi/static/js/787.353e9694.chunk.js",
+    "index.html": "/EventexUi/index.html",
+    "main.3bdca5f2.css.map": "/EventexUi/static/css/main.3bdca5f2.css.map",
+    "main.3a4bfb1d.js.map": "/EventexUi/static/js/main.3a4bfb1d.js.map",
+    "787.353e9694.chunk.js.map": "/EventexUi/static/js/787.353e9694.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bdca5f2.css",
+    "static/js/main.3a4bfb1d.js"
+  ]
+}
