@@ -7,7 +7,8 @@ const AjentsData = [
        },
     {
       id: 2,
-      imageSrc: "../images/Ajents1.png",
+      imageSrc: "./images/Ajents1.png",
+      
       title: null
     
        },
