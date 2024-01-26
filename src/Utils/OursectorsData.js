@@ -1,7 +1,7 @@
 const OursectorsData = [
     {
       id: 1,
-      imageSrc: "../images/imgOs1.png",
+      imageSrc: "./images/imgOs1.png",
       title: "CHEMISTRY",
       decription : "We are hosting the most comprehensive chemical industry meeting of Pakistan."
     },
