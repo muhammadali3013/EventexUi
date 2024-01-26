@@ -1,4 +1,5 @@
 import React from 'react'
+import Footerimg from "../Assets/logo.png"
 
 const Footer = () => {
   return (
@@ -6,15 +7,15 @@ const Footer = () => {
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 px-4 md:px-10 lg:px-44">
   
       <div>
-        <img className="h-32 mx-auto" src="./images/logo.png" alt="Logo" />
+        <img className="h-32 mx-auto" src={Footerimg} alt="Logo" />
         <p className='text-white text-start text-medium font-semibold mt-8 pr-4 md:pr-10 lg:pr-4'>
           EVENTEX, an organization, started its activities in the exhibition sector with its first organization in 2012,
           and over the years, it has brought 4 different specialization exhibitions at international standards to the chemical & Allied industry.
         </p>
       </div>
   
-      <div className='pl-4 md:pl-10 lg:pl-4'>
-        <h1 className='text-white text-start text-3xl mt-6'> Quick Links</h1>
+      <div className='pl-8 md:pl-10 lg:pl-8'>
+        <h1 className='text-white text-start text-3xl mt-6 '> Quick Links</h1>
         <ul className='text-white text-start pt-4 md:pt-8 pl-4 md:pl-10 lg:pl-4 text-base font-medium'>
           <li className='mb-2'>ABOUT</li>
           <li className='mb-2'>CONTACT</li>

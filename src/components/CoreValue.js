@@ -1,8 +1,12 @@
 import React from 'react'
+import img2 from '../Assets/img2.png';
+import img3 from '../Assets/img3.jpg';
+import img4 from '../Assets/img4.jpg';
+import img5 from '../Assets/img5.png';
 
 const CoreValue = () => {
   return (
-    <div >
+    <div className='mb-20'>
        
         <div className="pt-20  pb-5  max-w-2xl lg:mx-0 lg:max-w-4xl lg:pr-24" bis_skin_checked={1}>
   <h2 className="text-4xl font-semibold tracking-tighter sm:text-5xl">
@@ -22,7 +26,7 @@ const CoreValue = () => {
         </div>
 
         <div className="brightness-90">
-          <img className="h-full w-full" alt="" src="./images/img2.png" />
+          <img className="h-full w-full" alt="" src={img2} />
         </div>
 
         <div className="py-8 md:py-20 bg-fuchsia-900">
@@ -33,7 +37,7 @@ const CoreValue = () => {
         </div>
 
         <div className="brightness-90">
-          <img className="h-full w-full" alt="" src="./images/img3.jpg" />
+          <img className="h-full w-full" alt="" src={img3} />
         </div>
 
         <div className="py-8 md:py-20 bg-fuchsia-900">
@@ -45,7 +49,7 @@ const CoreValue = () => {
         </div>
 
         <div className="brightness-90">
-          <img className="h-full w-full" alt="" src="./images/img4.jpg" />
+          <img className="h-full w-full" alt="" src={img4} />
         </div>
 
         <div className="py-8 md:py-20 bg-fuchsia-900">
@@ -57,7 +61,7 @@ const CoreValue = () => {
         </div>
 
         <div className="brightness-90">
-          <img className="h-full w-full" alt="" src="./images/img5.png" />
+          <img className="h-full w-full" alt="" src={img5} />
         </div>
 
         <div className="py-8 md:py-20 bg-fuchsia-900">

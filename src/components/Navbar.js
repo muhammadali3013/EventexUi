@@ -11,7 +11,7 @@ const Navbar = () => {
     <>
     <nav className="bg-white border-gray-200 dark:bg-gray-900">
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-2">
-        <a href="https://flowbite.com/" className="flex items-center space-x-3 rtl:space-x-reverse">
+        <a href="#" className="flex items-center space-x-3 rtl:space-x-reverse">
           <img className="hfe-site-logo-img elementor-animation- h-24" 
             src="https://eventex.com.pk/wp-content/uploads/2023/08/cropped-eventax_logo-removebg-preview.png" alt="" />
         </a>
